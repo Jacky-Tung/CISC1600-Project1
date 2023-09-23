@@ -202,11 +202,11 @@ th {
 
   .mac{
     margin-top: 10px;
-    width: 150px;
+    width: 300px;
   }
 
   .life{
-    width: 100px;
+    min-height: auto;
   }
 }
 
