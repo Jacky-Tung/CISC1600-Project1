@@ -194,6 +194,19 @@ th {
     width: 100%;
     display: flex;
     justify-content: center;
+    margin-top: 10px;
+  }
+
+  .mac-image{
+    margin-top: 10px;
+  }
+
+  .mac{
+    width: 300px;
+  }
+
+  .life{
+    width: 250px;
   }
 }
 
