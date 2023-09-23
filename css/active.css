@@ -182,7 +182,7 @@ th {
 
 @media screen and (max-width: 500px){
   .life{
-    height: max-content;
+    height: min-content;
   }
 }
 
