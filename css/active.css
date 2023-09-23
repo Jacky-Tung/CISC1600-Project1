@@ -121,8 +121,7 @@ hr {
 .scroll-image {
   display: flex;
   border-radius: 10px;
-  /* max-width: 356px;
-  min-width: 350px; */
+  width: fit-content;
   justify-content: center;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -202,12 +201,12 @@ th {
 
   .mac{
     margin-top: 10px;
-    width: 300px;
+    width: fit-content;
   }
 
   .life{
-    height: max-content;
-    width: 250px;
+    height: fit-content;
+    width: fit-content;
   }
 }
 
