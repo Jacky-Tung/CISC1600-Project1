@@ -201,12 +201,15 @@ th {
 
   .mac{
     margin-top: 10px;
-    width: 300px;
+    width: 200px;
   }
 
   .life{
     height: fit-content;
-    width: 70%;
+  }
+
+  .scroll-image{
+    height: 350px;
   }
 }
 
