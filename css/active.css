@@ -121,8 +121,9 @@ hr {
 .scroll-image {
   display: flex;
   border-radius: 10px;
-  max-width: 356px;
-  min-width: 350px;
+  /* max-width: 356px;
+  min-width: 350px; */
+  justify-content: center;
   padding-top: 10px;
   padding-bottom: 10px;
 }
