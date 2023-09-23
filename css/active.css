@@ -201,11 +201,12 @@ th {
 
   .mac{
     margin-top: 10px;
-    width: 300px;
+    min-width: 375px;
+    width: 75%;
   }
 
   .life{
-    height: 3000px;
+    height: 2000px;
   }
 }
 
@@ -226,6 +227,7 @@ th {
 
   .mac{
     margin-left: 0px;
+    width: 75%;
   }
 }
 
