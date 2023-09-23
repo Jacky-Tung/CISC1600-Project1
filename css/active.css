@@ -180,6 +180,12 @@ th {
   list-style-type: "~ ";
 }
 
+@media screen and (max-width: 500px){
+  .life{
+    height: 2500px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .desc {
     display: block;
@@ -203,10 +209,6 @@ th {
     margin-top: 10px;
     min-width: 375px;
     width: 75%;
-  }
-
-  .life{
-    height: 2000px;
   }
 }
 
