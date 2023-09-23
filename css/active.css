@@ -182,8 +182,8 @@ th {
 
 @media screen and (max-width: 500px){
   .life{
-    height: fit-content;
-    width: fit-content;
+    height: 100%;
+    width: 100%;
   }
 }
 
