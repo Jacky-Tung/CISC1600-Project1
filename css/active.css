@@ -194,19 +194,19 @@ th {
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 10px;
   }
 
-  .mac-image{
+  .me{
     margin-top: 10px;
   }
 
   .mac{
-    width: 300px;
+    margin-top: 10px;
+    width: 150px;
   }
 
   .life{
-    width: 250px;
+    width: 100px;
   }
 }
 
