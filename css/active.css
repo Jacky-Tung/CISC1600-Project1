@@ -206,8 +206,8 @@ th {
   }
 
   .life{
-    height: fit-content;
-    width: 300px;
+    height: max-content;
+    width: 250px;
   }
 }
 
