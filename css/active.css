@@ -206,7 +206,7 @@ th {
   }
 
   .life{
-    min-height: auto;
+    height: fit-content;
   }
 }
 
