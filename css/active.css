@@ -180,10 +180,11 @@ th {
   list-style-type: "~ ";
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 812px){
   .life{
-    height: 3566px;
+    height: 3389.71px;
     width: 75%;
+    min-width: 356px;
   }
 }
 
